@@ -199,3 +199,10 @@ You are free to use, modify, and distribute this project for learning or develop
 ---
 
 
+## Contact
+
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at kingchandus143@gmail.com 
+
+---
+
+
